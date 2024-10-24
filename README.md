@@ -25,15 +25,17 @@ Follow the steps below to run the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/project-name.git
-```bash
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd blogs
+3. Install dependencies:
+   ```bash
+      npm install
+4. Installation webpack
+   ```bash
    npm install lucide-react
-```
-```bash
    npm install -D tailwindcss postcss autoprefixer
-```
-```bash
-npx tailwindcss init -p
-```
-```bash
-npm install @tailwindcss/line-clamp
-```
+   npx tailwindcss init -p
+   npm install @tailwindcss/line-clamp
+
