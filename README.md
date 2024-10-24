@@ -25,13 +25,15 @@ Follow the steps below to run the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/project-name.git
-
-##
-npm install lucide-react
-##
-npm install -D tailwindcss postcss autoprefixer
-##
+```bash
+   npm install lucide-react
+```
+```bash
+   npm install -D tailwindcss postcss autoprefixer
+```
+```bash
 npx tailwindcss init -p
-##
+```
+```bash
 npm install @tailwindcss/line-clamp
-##
+```
