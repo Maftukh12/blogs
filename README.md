@@ -13,10 +13,10 @@ Welcome to **Project Name**! This is a [React.js](https://reactjs.org/) project 
 ## 🛠️ Technologies Used
 
 - **React.js** - Frontend library
-- **CSS/Sass** - Styling
+- **Tailwind** - Styling
 - **Axios/Fetch** - For making API requests
 - **React Router** - For client-side routing
-- **Webpack/Babel** - Module bundling and transpiling
+- **Webpack** - Module bundling and transpiling
 
 ## 🔧 Installation & Setup
 
